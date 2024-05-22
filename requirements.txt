@@ -3,5 +3,4 @@ pandas
 Flask
 -e .
 scikit-learn
-pickle
 datetime
